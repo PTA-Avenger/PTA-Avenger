@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Thato Mabena 👋  
 
-<!--
-**PTA-Avenger/PTA-Avenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Open-Source Contributor  
+💻 **Tech Stack:**  
+- **Languages:** JavaScript, Python, SQL, C++, C#, Java,
+- **Frameworks:** React, Node.js, .NET MAUI
+- **Cloud/DevOps:** Azure, Firebase, AWS (Learning)  
+🌱 **Currently Learning:** AWS, DevOps  
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/thamsanqa-mabena-4565a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://yourportfolio.com) | [Email](thamymabena@gmail.com) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently working on:** [Project Name](link) (using [Tech Stack, e.g., React + Firebase])  
+📚 **Blog:** [yourblog.com](link)  
+⚡ **Fun fact:** I love watching Football,Baseball,Basketball,F1 and volunteering.
