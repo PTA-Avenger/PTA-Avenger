@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | Open-Source Contributor  
 💻 **Tech Stack:**  
-- **Languages:** JavaScript, Python, SQL, C++, C#, Java,
+- **Languages:** JavaScript, Python, SQL, C++, C#, Java,COBOL, TypeScript, React
 - **Frameworks:** React, Node.js, .NET MAUI
 - **Cloud/DevOps:** Azure, Firebase, AWS (Learning)  
 🌱 **Currently Learning:** AWS, DevOps  
